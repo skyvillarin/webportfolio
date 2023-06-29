@@ -1,0 +1,23 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: "PT Serif", serif; 
+}
+
+h1,h3,{
+	font-family: "PT Serif", serif;
+}
+
+.navbar {
+	background-color: #e9c46a;
+}
+
+#landing {
+	background-color: #264653;
+}
+
+#projects {
+	background-color: #f4a261;
+}
