@@ -3,21 +3,63 @@ html {
 }
 
 body {
-	font-family: "PT Serif", serif; 
+	font-family: 'Bitter', serif;
 }
 
-h1,h3,{
-	font-family: "PT Serif", serif;
+h1,h3{
+	font-family: 'Bitter', serif;
+	font-weight: bold;
 }
 
 .navbar {
-	background-color: #e9c46a;
+	background-color: #c8b6ff;
 }
 
+a.nav-link:hover {
+	background-color: #ffcfd2 !important;
+} 
+
 #landing {
-	background-color: #264653;
+	background-color: #9bf6ff;
+}
+
+#image {
+	border: 8px solid;
+	border-color: #ff499e;
+	border-radius: 25px;
 }
 
 #projects {
-	background-color: #f4a261;
+	background-color: #caffbf;
+}
+
+#tools {
+	background-color: #fdffb6;
+}
+
+#contact {
+	background-color: #ffe5ec;
+}
+
+#form-col {
+	background-color: #f94144;
+	font-size: 20px;
+}
+
+.card-img-top {
+    height: 15rem;
+    object-fit: contain;
+}
+
+
+.card-footer { 
+  flex: 1;
+}
+
+.socialmedia img {
+	margin: 20px;
+}
+
+#navbarlinks li {
+	font-size: 15px;
 }
