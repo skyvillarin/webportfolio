@@ -46,12 +46,6 @@ a.nav-link:hover {
 	font-size: 20px;
 }
 
-.card-img-top {
-    height: 15rem;
-    object-fit: contain;
-}
-
-
 .card-footer { 
   flex: 1;
 }
@@ -63,3 +57,4 @@ a.nav-link:hover {
 #navbarlinks li {
 	font-size: 15px;
 }
+
